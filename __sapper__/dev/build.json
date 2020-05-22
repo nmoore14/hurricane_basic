@@ -1,19 +1,20 @@
 {
-  "bundler": "webpack",
-  "shimport": null,
+  "bundler": "rollup",
+  "shimport": "1.0.1",
   "assets": {
-    "about": "316fc3c2cc7acab58186/about.about.js",
-    "blog": "316fc3c2cc7acab58186/blog.blog.js",
-    "blog_$slug": "316fc3c2cc7acab58186/blog_$slug.blog_$slug.js",
-    "index": "316fc3c2cc7acab58186/index.index.js",
-    "main": "316fc3c2cc7acab58186/main.js"
+    "main": "client.0e20dadf.js"
   },
   "css": {
+    "main": "main.637669398.css",
     "chunks": {
       "index.svelte": [],
       "about.svelte": [],
-      "blog/index.svelte": [],
-      "blog/[slug].svelte": []
+      "blog/index.svelte": [
+        "index.5b22fe7a.css"
+      ],
+      "blog/[slug].svelte": [
+        "[slug].17cfdecd.css"
+      ]
     }
   }
 }

@@ -2,6 +2,6 @@
 	<title>About</title>
 </svelte:head>
 
-<h1>About this site</h1>
-
-<p>This is the 'about' page. There's not much here.</p>
+<div id="main" class="relative flex w-screen h-screen mt-12">
+	<h1 class="w-full text-white text-center text-md md:text-4xl">Determination | Faith | Community | Lifestyle</h1>
+</div>
