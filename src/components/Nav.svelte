@@ -11,7 +11,7 @@
 </script>
 
 <nav
-  class="fixed z-10 text-white w-full md:w-1/2 flex items-center justify-between flex-wrap
+  class="fixed z-10 text-white w-full lg:w-1/2 flex items-center justify-between flex-wrap
   p-4 bg-black md:p-4 shadow-lg top-0 md:rounded-br-lg">
 
   <a href="/" class="text-2xl md:text-4xl tracking-tight mr-4 myDisplay-1">
