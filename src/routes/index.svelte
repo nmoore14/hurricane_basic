@@ -3,7 +3,7 @@
 </svelte:head>
 
 <div id="main" class="relative flex flex-col w-screen h-screen mt-12 text-center">
-	<h2 class="text-white">WHAT THE HECK IS GOING ON!!!!!!!!!!!!</h2>
+	<h2 class="text-3xl p-4 w-3/4 mx-auto bg-white myDisplay-2 parell-gram">We don't just sell bikes...WE ARE LIFE-IMPROVEMENT SPECIALISTS</h2>
 	<div class="flex flex-row flex-wrap align-center justify-center md:p-4 bg-gray-900" id="contact-container">
 		<div id="contact" class="my-2 md:mx-4 md:my-0 h-auto">
 			<h1 class="text-center text-3xl md:text-5xl myDisplay-1">Contact</h1>

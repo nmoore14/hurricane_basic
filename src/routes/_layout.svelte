@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<link href="https://fonts.googleapis.com/css2?family=Bangers&family=Montserrat&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Saira+Stencil+One&family=Montserrat&display=swap" rel="stylesheet">
 </svelte:head>
 
 <main>

@@ -1,5 +1,5 @@
 /*
-font-family: 'Bangers', cursive;
+font-family: 'Saira Stencil One', cursive;
 font-family: 'Montserrat', sans-serif;
 */
 
@@ -13,13 +13,17 @@ body {
 }
 
 .myDisplay-1 {
-	font-family: 'Bangers', cursive;
+	font-family: 'Saira Stencil One', cursive;
 	color: #68BD45;
 }
 
 .myDisplay-2 {
-	font-family: 'Bangers', cursive;
+	font-family: 'Saira Stencil One', cursive;
 	color: #68BD45;
+}
+
+.parall-gram {
+	clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
 }
 
 a {
