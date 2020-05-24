@@ -19,7 +19,7 @@
 		<div id="hours" class="my-2 md:mx-4 md:my-0 h-auto">
 			<h1 class="text-center text-3xl md:text-5xl myDisplay-1">Hours</h1>
 			<p class="text-center text-white">Monday: <span class="text-xl myDisplay-1">Closed</span></p>
-			<p class="text-center text-white">Tuesday: 10:00 AM - 3:00 PM</p>
+			<p class="text-center text-white">Tuesday: 10:00 AM - 5:00 PM</p>
 			<p class="text-center text-white">Wednesday: 10:00 AM - 5:00 PM</p>
 			<p class="text-center text-white">Thursday: 10:00 AM - 5:00 PM</p>
 			<p class="text-center text-white">Friday: 10:00 AM - 5:00 PM</p>
