@@ -3,6 +3,10 @@ font-family: 'Saira Stencil One', cursive;
 font-family: 'Montserrat', sans-serif;
 */
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html {
 	background-color: black;
 	font-size: 12pt;
