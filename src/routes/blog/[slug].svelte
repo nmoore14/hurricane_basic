@@ -26,6 +26,10 @@
 		so we have to use the :global(...) modifier to target
 		all elements inside .content
 	*/
+	.content {
+		background-color: white;
+	}
+
 	.content :global(h2) {
 		font-size: 1.4em;
 		font-weight: 500;
@@ -57,8 +61,10 @@
 	<title>{post.title}</title>
 </svelte:head>
 
-<h1>{post.title}</h1>
+<div class="flex flex-col no-wrap" id="blog-post">
+	<h1 class="text-4xl text-center text-white">{post.title}</h1>
 
-<div class='content'>
-	{@html post.html}
+	<div class='content w-5/6 mx-auto px-8 py-4'>
+		{@html post.html}
+	</div>
 </div>
