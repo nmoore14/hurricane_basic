@@ -54,9 +54,11 @@
 		>
 		</iframe>
 	</div>
+	<!--
 	<div class="flex flex-col p-4" id="the-shop-container">
 		<h1 class="w-full text-white text-center text-md md:text-4xl">
 			The Shop
 		</h1>
 	</div>
+	-->
 </div>
