@@ -20,7 +20,7 @@
 		</div>
 		<div class="w-2/4 px-8" id="about-text">
 			<p class="text-white">
-				Hey there! My name is Andrew Ingram and bicycles are my passion. I have been into bikes as long as I can remember. 
+				&nbsp;&nbsp;Hey there! My name is Andrew Ingram and bicycles are my passion. I have been into bikes as long as I can remember. 
 				Through highschool and college I was lucky enough to travel around the country racing my mountain bike. 
 				When I wasn’t racing I was building trail or advocating publically for more trails to be built. 
 				Sometimes it meant scraping together a few dollars to race a national championship and sometimes it was just plain 
@@ -38,9 +38,12 @@
 		</div>
 
 	</div>
-	<div class="flex" id="video-container">
+	<div class="flex flex-col p-4 bg-gray-900" id="video-container">
+		<h1 class="w-full text-white text-center text-md md:text-4xl">
+			Community Involvement
+		</h1>
 		<iframe
-			class="mx-auto"
+			class="mx-auto rounded-lg shadow-xs"
 			width="1020"
 			height="630"
 			src="https://www.youtube.com/embed/4_s1X0CRF4E"
@@ -50,5 +53,10 @@
 			allowfullscreen
 		>
 		</iframe>
+	</div>
+	<div class="flex flex-col p-4" id="the-shop-container">
+		<h1 class="w-full text-white text-center text-md md:text-4xl">
+			The Shop
+		</h1>
 	</div>
 </div>
