@@ -25,6 +25,7 @@
     <div class="{!expand && 'hidden'} lg:block text-sm lg:flex-grow">
       <NavLink text="About" href="about" {segment} />
       <NavLink text="Blog" href="blog" {segment} rel="prefetch" />
+      <NavLink text="Join Our Newsletter" href="newsletter" {segment} />
     </div>
   </div>
 </nav>
